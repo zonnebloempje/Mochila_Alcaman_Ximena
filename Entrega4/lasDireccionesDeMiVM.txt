@@ -1,0 +1,11 @@
+IP Privada: 192.168.200.15
+
+IP Publica: 77.111.247.59
+
+MAC: 08:00:27:96:d0:c6
+
+
+¿Es diferente a la IP publica y privada de nuestra máquina host?
+Si, la IP publica se asigna al router o punto de acceso a internet y la IP privada se asigna a cada dispositivo que este dentro de la red local.
+Cada dispositivo tiene su propia direccion IP, por lo tanto, la IP publica no es la misma que la privada.
+
